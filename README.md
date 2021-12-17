@@ -3,7 +3,7 @@
 <param ve-config 
        title="16th Century Herbals"
        author="Maria Garcia"
-       banner="https://i2.wp.com/fourdirectionswellness.com/wp-content/uploads/2019/01/20190114_115209_0001-min.png?w=800&ssl=1"layout="vertical">
+       banner="https://i.pinimg.com/564x/2d/1c/3a/2d1c3a0fecd2487ac9bedb980de4e9f2.jpg"layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
