@@ -1,4 +1,4 @@
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Libellus_de_Medicinalibus_Indorum_Herbis.pdf/page1-800px-Libellus_de_Medicinalibus_Indorum_Herbis.pdf.jpg"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Badianus Manuscript"
@@ -21,9 +21,9 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
-## Bad
+## Image
 
-A page of the ''Libellus de Medicinalibus Indorum Herbis'', an Aztec herbal composed in 1552 by Martín de la Cruz and translated into Latin by Juan Badianus, illustrating the ''tlazolteozacatl'', ''tlayapaloni'', ''axocotl'' and ''chicomacatl'' plants, w.[^1]
+_A page of the ''Libellus de Medicinalibus Indorum Herbis'', an Aztec herbal composed in 1552 by Martín de la Cruz and translated into Latin by Juan Badianus, illustrating the ''tlazolteozacatl'', ''tlayapaloni'', ''axocotl'' and ''chicomacatl'' plants, w.[^1]
 <param ve-image 
        label="Badianus" 
        description="Codex" 
