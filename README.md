@@ -3,8 +3,7 @@
 <param ve-config 
        title="Badianus Manuscript"
        author="Maria Garcia"
-       banner="Badianus.jpg ‎(443 × 568 pixels, file size: 47 KB, MIME type: image/jpeg)" 
-       layout="vertical">
+       banner="Badianus.jpg ‎(443 × 568 pixels, file size: 47 KB, MIME type: image/jpeg)"layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
