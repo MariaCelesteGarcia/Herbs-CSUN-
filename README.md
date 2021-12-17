@@ -23,9 +23,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+_A page of the ''Libellus de Medicinalibus Indorum Herbis'', an Aztec herbal composed in 1552 by Martín de la Cruz and translated into Latin by Juan Badianus, illustrating the ''tlazolteozacatl'', ''tlayapaloni'', ''axocotl'' and ''chicomacatl'' plants, w.[^1]
 <param ve-image 
        label="Badianus" 
        description="Codex" 
