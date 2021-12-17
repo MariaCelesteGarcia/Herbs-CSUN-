@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Badianus Manuscript"
+       title="16th Century Herbals"
        author="Maria Garcia"
        banner="Badianus.jpg ‎(443 × 568 pixels, file size: 47 KB, MIME type: image/jpeg)"layout="vertical">
 
@@ -21,9 +21,9 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
-## Image
+## Badianus Manuscript
 
-_A page of the ''Libellus de Medicinalibus Indorum Herbis'', an Aztec herbal composed in 1552 by Martín de la Cruz and translated into Latin by Juan Badianus, illustrating the ''tlazolteozacatl'', ''tlayapaloni'', ''axocotl'' and ''chicomacatl'' plants, w.[^1]
+A page of the ''Libellus de Medicinalibus Indorum Herbis'', an Aztec herbal composed in 1552 by Martín de la Cruz and translated into Latin by Juan Badianus, illustrating the ''tlazolteozacatl'', ''tlayapaloni'', ''axocotl'' and ''chicomacatl'' plants, w.[^1]
 <param ve-image 
        label="Badianus" 
        description="Codex" 
@@ -46,4 +46,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Badiianus Manuscript](https://commons.wikimedia.org/wiki/File:Badianus.jpg#filehistory)
