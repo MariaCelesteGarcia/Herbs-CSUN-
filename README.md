@@ -7,7 +7,7 @@
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
+     Wikipedia or Wikidata (https://upload.wikimedia.org/wikipedia/commons/b/be/Badianus.jpg)> -->
 <param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
