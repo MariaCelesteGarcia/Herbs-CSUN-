@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config https://i2.wp.com/fourdirectionswellness.com/wp-content/uploads/2019/01/20190114_115209_0001-min.png?w=800&ssl=1
+<param ve-config 
        title="16th Century Herbals"
        author="Maria Garcia"
-       banner="Badianus.jpg ‎(443 × 568 pixels, file size: 47 KB, MIME type: image/jpeg)"layout="vertical">
+       banner="https://i2.wp.com/fourdirectionswellness.com/wp-content/uploads/2019/01/20190114_115209_0001-min.png?w=800&ssl=1"layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
