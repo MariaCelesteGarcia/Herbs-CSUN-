@@ -5,13 +5,8 @@
        author="Maria Garcia"
        banner="http://missyousryshistoryclass.weebly.com/uploads/2/0/4/4/20441703/header_images/1370351993.jpg"layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://upload.wikimedia.org/wikipedia/en/thumb/2/29/The_Grete_Herball%2C_Title_Page%2C_1526.jpg/800px-The_Grete_Herball%2C_Title_Page%2C_1526.jpg)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+
+
 
 # Famous 16th Century Herbals
 
@@ -19,7 +14,7 @@ Many famous herbals were made during the sixteenth century. In Europe The Grete 
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/The_Grete_Herball%2C_Title_Page%2C_1526.jpg/800px-The_Grete_Herball%2C_Title_Page%2C_1526.jpg">
 
-# Basic usage
+
 
 ## Badianus Manuscript
 
